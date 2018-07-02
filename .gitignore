@@ -1,0 +1,6 @@
+.DS_Store
+build
+*.zip
+npm-debug.log
+.idea
+node_modules
